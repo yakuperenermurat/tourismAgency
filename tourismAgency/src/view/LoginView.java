@@ -9,7 +9,7 @@ import javax.swing.*;
 public class LoginView extends Layout {
     private JPanel container;
     private JPanel pnl_top;
-    private JPanel pnl_bottom;
+    private JPanel pnl_buttom;
     private JTextField fld_username;
     private JLabel lbl_username;
     private JPasswordField fld_pass;
