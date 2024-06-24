@@ -1,6 +1,6 @@
 # Turizm Acente Yönetim Sistemi
 
-Bu proje, turizm acenteleri için bir yönetim sistemidir. Kullanıcılar otel, oda ve rezervasyon yönetimi yapabilirler. Sistem, farklı kullanıcı rolleri (admin ve employee) için farklı yetenekler sağlar.
+Bu proje, turizm acenteleri için bir yönetim sistemidir. Kullanıcılar otel, oda ve rezervasyon yönetimi yapabilirler. Sistem, farklı kullanıcı rolleri (admin ve worker) için farklı yetenekler sağlar.
 
 ## Özellikler
 
