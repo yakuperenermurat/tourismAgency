@@ -60,17 +60,17 @@ Admin kullanıcılarının sistemdeki kullanıcıları yönetebileceği ekrandı
 ![Admin Paneli](./img/AdminPaneli.png)
 
 ### Otel Yönetim Paneli
-Admin ve employee kullanıcılarının otel bilgilerini yönetebileceği ekrandır.
+Admin ve worker kullanıcılarının otel bilgilerini yönetebileceği ekrandır.
 
 ![Otel Yonetim Paneli](./img/OtelYonetimPaneli.png)
 
 ### Oda Yönetim Paneli
-Admin ve employee kullanıcılarının oda bilgilerini yönetebileceği ekrandır.
+Admin ve worker kullanıcılarının oda bilgilerini yönetebileceği ekrandır.
 
 ![Oda Yonetim Paneli](./img/OdaYonetimPaneli.png)
 
 ### Rezervasyon Yönetim Paneli
-Admin ve employee kullanıcılarının rezervasyon bilgilerini yönetebileceği ekrandır.
+Admin ve worker kullanıcılarının rezervasyon bilgilerini yönetebileceği ekrandır.
 
 ![Rezervasyon Yonetim Paneli](./img/RezervasyonYonetimPaneli.png)
 
